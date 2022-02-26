@@ -23,6 +23,7 @@ function igniteTheFlame(){
       }
       pause(333);
     }
+}
 /*
 Returns profile links to all available matches
 */
