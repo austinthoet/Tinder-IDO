@@ -67,6 +67,7 @@ function pause(milliseconds) {
 }
 
 (function watchItBurn() {
+    end = true;
     while(end){
       var end = igniteTheFlame();
     }
